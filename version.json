@@ -1,6 +1,6 @@
 {
-    "version": "2.7.1",
-    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.1/Lexis_Setup_v2.7.1.exe",
-    "release_notes": "- Correção: erro ao abrir chat após login\n- Novo: opção 'Lembrar-me' para login automático\n- Correção: sistema de fallback para usuários offline",
+    "version": "2.7.2",
+    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.2/Lexis_Setup_v2.7.2.exe",
+    "release_notes": "- Correção: chat não aparecia após login\n- Novo: opção Lembrar-me para login automático\n- Removida senha do instalador",
     "mandatory": true
 }
