@@ -1,0 +1,6 @@
+{
+    "version": "2.6.3",
+    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.6.3/Lexis_Setup_v2.6.3.exe",
+    "release_notes": "Versão inicial com sistema de auto-update",
+    "mandatory": false
+}
