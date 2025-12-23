@@ -1,6 +1,6 @@
 {
-    "version": "2.7.2",
-    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.2/Lexis_Setup_v2.7.2.exe",
-    "release_notes": "- Correção: chat não aparecia após login\n- Novo: opção Lembrar-me para login automático\n- Removida senha do instalador",
+    "version": "2.7.3",
+    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.3/Lexis_Setup_v2.7.3.exe",
+    "release_notes": "- Correção: chat não aparecia após login\n- Novo: opção Lembrar-me para login automático\n- Ollama agora é instalado automaticamente",
     "mandatory": true
 }
