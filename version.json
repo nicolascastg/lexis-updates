@@ -1,6 +1,6 @@
 {
-    "version": "2.7.4",
-    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.4/Lexis_Setup_v2.7.4.exe",
-    "release_notes": "- Correção: API Key Anthropic não era carregada\n- Correção: Respostas sumiam da tela\n- Correção: Pop-up de consulta rápida vazio\n- Correção: Ctrl+Alt+L agora envia automaticamente",
+    "version": "2.7.5",
+    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.7.5/Lexis_Setup_v2.7.5.exe",
+    "release_notes": "- Correção: API Anthropic não carregava corretamente\n- Correção: Respostas sumiam da tela\n- Correção: Pop-up com ícone do app e texto formatado\n- Correção: Ctrl+Alt+L agora usa modo formal e busca web\n- Melhoria: Logo exibido na tela de login",
     "mandatory": true
 }
