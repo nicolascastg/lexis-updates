@@ -1,0 +1,6 @@
+{
+    "version": "2.8.0",
+    "download_url": "https://github.com/nicolascastg/lexis-updates/releases/download/v2.8.0/Lexis_Setup_v2.8.0.exe",
+    "release_notes": "- NOVO: Sistema de módulos atualizáveis\n- Atualizações de prompts sem reinstalar\n- Configurações de IA remotas\n- Triggers de busca atualizáveis",
+    "mandatory": true
+}

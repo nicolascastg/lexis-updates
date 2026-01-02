@@ -1,0 +1,67 @@
+{
+    "_comment": "Triggers para busca web jurídica - Atualizável remotamente",
+    "_version": "1.0.0",
+    
+    "keywords": {
+        "legislacao": [
+            "lei", "código", "artigo", "art.", "art ", "§", "parágrafo",
+            "decreto", "portaria", "resolução", "instrução normativa",
+            "medida provisória", "mp ", "emenda", "constituição", "cf/88", "cf "
+        ],
+        "areas_direito": [
+            "direito", "jurídico", "legal", "legislação", "norma",
+            "trabalhista", "clt", "previdência", "inss",
+            "penal", "crime", "pena", "prisão",
+            "civil", "contrato", "indenização", "dano",
+            "consumidor", "cdc", "fornecedor",
+            "trânsito", "ctb", "multa", "cnh", "licenciamento",
+            "ambiental", "urbanístico", "administrativo"
+        ],
+        "tributario": [
+            "tribut", "fiscal", "icms", "issqn", "iss", "pis", "cofins",
+            "irpj", "irpf", "alíquota", "base de cálculo", "fato gerador",
+            "imposto", "taxa", "contribuição"
+        ],
+        "tribunais": [
+            "stf", "stj", "tst", "tse", "cnj", "tribunal", "trf", "tj",
+            "súmula", "jurisprudência", "decisão", "acórdão",
+            "processo", "ação", "recurso", "sentença"
+        ],
+        "orgaos": [
+            "sefaz", "fazenda", "receita", "detran", "inmetro",
+            "anvisa", "ibama", "bacen", "cvm"
+        ],
+        "termos_tecnicos": [
+            "prescrição", "decadência", "prazo",
+            "competência", "jurisdição", "litispendência",
+            "coisa julgada", "preclusão"
+        ]
+    },
+    
+    "domains_prioritarios": [
+        "planalto.gov.br",
+        "stf.jus.br",
+        "stj.jus.br",
+        "tst.jus.br",
+        "tse.jus.br",
+        "cnj.jus.br",
+        "senado.leg.br",
+        "camara.leg.br",
+        "in.gov.br",
+        "gov.br"
+    ],
+    
+    "domains_juridicos": [
+        "jusbrasil.com.br",
+        "conjur.com.br",
+        "migalhas.com.br",
+        "lexml.gov.br"
+    ],
+    
+    "patterns_pergunta": [
+        "como está", "qual é", "quanto é", "quais são",
+        "o que diz", "o que mudou", "como funciona",
+        "pode ser", "é possível", "é permitido", "é proibido",
+        "quem pode", "quando devo", "onde encontro"
+    ]
+}
